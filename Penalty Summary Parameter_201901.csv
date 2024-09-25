@@ -1,0 +1,5 @@
+Tower;SLA Number;Service Class;Cons Target Not Achieved;SLA Accelerator Target Applicable;Reduction Rate;Service Level Weight;Accelerator;Monthly Service Charge of SoW;Calc Penalty per Deviation(€);Calc Number of Deviations;Calc Total Penalty(€);Calc Earnback(€);Price Calculation;Penalty Type;NCM Type;Annotations
+Cloud;SLA 1.01C-3;ALL;0;yes;1;0;0;100;0;0;0.00;0.00;;Cumulative;Tower;
+Cloud;SLA 1.01C-4;ALL;0;yes;1;0;0;100;0;0;0.00;0.00;;Cumulative;Tower;
+EDC;SLA 7.00F-B;ALL;0;yes;1;0;0;200;0;0;0.00;0.00;;Singular;N/A;
+EDC;SLA 7.00F-B;ALL;1;yes;1;0;0;200;0;0;0.00;0.00;;Singular;N/A;
